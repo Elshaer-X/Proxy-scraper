@@ -8,7 +8,7 @@ B = str("""
  | |____| \__ \ | | | (_| |  __/ |   
  |______|_|___/_| |_|\__,_|\___|_|   
  
- TOOL       : [PROXY-SCRAPPER]
+ TOOL       : [PROXY-SCRAPER]
  CREATED BY : MAHMOUD ELSHAER
  FB         : fb.com/elsha3r.ME                                 
  
